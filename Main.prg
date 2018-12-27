@@ -17,9 +17,9 @@ Function main
 '		g_CycleCount = g_CycleCount + 1
 '	Next i
 	Do
-'		Go T1
-'		Go T2
-
+		Go T1
+		Go T2
+Print 1
 	Loop
 	
 
