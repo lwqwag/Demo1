@@ -24,7 +24,9 @@ Print 1
 	
 
 Fend
-
+Function test
+	Print 1
+Fend
 Function main1
 
 	Integer i

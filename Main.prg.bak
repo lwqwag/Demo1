@@ -19,7 +19,7 @@ Function main
 	Do
 		Go T1
 		Go T2
-
+Print 1
 	Loop
 	
 
