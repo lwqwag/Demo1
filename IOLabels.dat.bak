@@ -1,0 +1,49 @@
+ENVT0100,LM:2018/08/17 07:29:48:369,DS:0000000776,CS:02318,MA:8C-16-45-39-65-6A,EI:           
+sRCVersion="7.3.4"
+InputBitLabels {
+	nNumberOfLabels=0
+}
+InputByteLabels {
+	nNumberOfLabels=0
+}
+InputWordLabels {
+	nNumberOfLabels=0
+}
+OutputBitLabels {
+	nNumberOfLabels=0
+}
+OutputByteLabels {
+	nNumberOfLabels=0
+}
+OutputWordLabels {
+	nNumberOfLabels=0
+}
+MemoryBitLabels {
+	nNumberOfLabels=4
+	Label1 {
+		nBit=0
+		sLabel="Start_Read_Force"
+		sDescription=""
+	}
+	Label2 {
+		nBit=1
+		sLabel="Force_Reset"
+		sDescription=""
+	}
+	Label3 {
+		nBit=2
+		sLabel="Dis_Signal"
+		sDescription=""
+	}
+	Label4 {
+		nBit=3
+		sLabel="Virtual_Signal"
+		sDescription=""
+	}
+}
+MemoryByteLabels {
+	nNumberOfLabels=0
+}
+MemoryWordLabels {
+	nNumberOfLabels=0
+}
